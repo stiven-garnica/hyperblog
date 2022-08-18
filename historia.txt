@@ -3,8 +3,8 @@ Esta es la historia de Stiven
 Stiven tiene 22 años y es de Colombia, 
 viviendo en Manizales
 
-<<<<<<< HEAD
 Hoy hablaremos de su vida y obra.
-=======
+
+Main 1
+
 Mañana nos enfocaremos de su vida laboral.
->>>>>>> cabecera
